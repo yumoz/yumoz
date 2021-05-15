@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there  
+   I'm yumoz.
+
+
+![yumoz's GitHub stats](https://github.com/yumoz?tab=stars)
