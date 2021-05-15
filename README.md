@@ -18,6 +18,6 @@ Here are some ideas to get you started:
    I'm yumoz.
 
 
-![yumoz's GitHub stats](https://github.com/yumoz?tab=stars)
+[yumoz's GitHub stats](https://github.com/yumoz?tab=stars)
 
-![yumoz's Gitee](https://gitee.com/yumoz)
+[yumoz's Gitee](https://gitee.com/yumoz)
