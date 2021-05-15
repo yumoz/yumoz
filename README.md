@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there  
    I'm yumoz.
 
 
 ![yumoz's GitHub stats](https://github.com/yumoz?tab=stars)
+
+![yumoz's Gitee](https://gitee.com/yumoz)
