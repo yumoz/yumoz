@@ -38,7 +38,7 @@
 ## 📝 最新博客 (Latest Blog Posts)
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot 3.x 集成 GraalVM 构建原生镜像实践](https://blog.csdn.net/qq_37857219/article/details/xxxxx)
+- [阿里云与Xshell连接问题总结]([https://blog.csdn.net/qq_37857219/article/details/xxxxx](https://blog.csdn.net/qq_37857219/article/details/124387975?spm=1001.2014.3001.5501))
 <!-- BLOG-POST-LIST:END -->
 
 👉 更多文章请访问我的 [CSDN 博客](https://blog.csdn.net/qq_37857219?spm=1000.2115.3001.5343)
@@ -54,9 +54,27 @@
   <a href="https://gitee.com/yumoz" target="_blank">
     <img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee" />
   </a>
-  <a href="https://blog.csdn.net/qq_37857219" target="_blank">
+  <!--<a href="https://blog.csdn.net/qq_37857219" target="_blank">
     <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=data:image/svg+xml;base64,..." alt="CSDN" />
+  </a>-->
+  <!-- 知乎：Simple Icons 内置 zhihu，品牌蓝 #0084FF -->
+  <a href="https://www.zhihu.com/people/yumoz9" target="_blank">
+    <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu" />
   </a>
-  <!-- 你可以在这里继续添加更多链接，如掘金、知乎等 -->
+
+  <!-- 掘金：Simple Icons 内置 juejin，品牌蓝 #1E80FF 
+  <a href="https://juejin.cn/user/你的掘金ID" target="_blank">
+    <img src="https://img.shields.io/badge/Juejin-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="Juejin" />
+  </a>-->
+
+  <!-- 博客园：Simple Icons 无官方 slug，使用自定义 Base64 Logo + 品牌蓝 #21759B -->
+  <a href="https://www.cnblogs.com/yumoz/" target="_blank">
+    <img src="https://img.shields.io/badge/CNBlogs-21759B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDMi41IDIgMiAyLjUgMiAxMnMyLjUgMTAgMTAgMTAgMTAtMi41IDEwLTEwUzIxLjUgMiAxMiAyeiIvPjwvc3ZnPg==&logoColor=white" alt="CNBlogs" />
+  </a>
+
+  <!-- CSDN（沿用你示例中的 Base64，确保 ... 部分已补全） -->
+  <a href="https://blog.csdn.net/qq_37857219" target="_blank">
+    <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" alt="CSDN" />
+  </a>
 </p>
 
