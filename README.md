@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Yumoz
 
 [![GitHub followers](https://img.shields.io/github/followers/yumoz?style=social)](https://github.com/yumoz)
-[![Gitee stars](https://gitee.com/yumoz/badge/star.svg?theme=dark)](https://gitee.com/yumoz)
 [![Blog](https://img.shields.io/badge/Blog-CSDN-ff69b4)](https://blog.csdn.net/qq_37857219?spm=1000.2115.3001.5343)
 
 > 一个热爱技术、乐于分享的开发者 | 全栈路上的践行者
